@@ -1,6 +1,6 @@
 {
   "name": "pearpass-lib-data-export",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "utility for exporting vaults",
   "main": "index.js",
   "license": "Apache-2.0",
